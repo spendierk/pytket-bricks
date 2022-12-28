@@ -43,6 +43,7 @@ bell = Circuit(2)
 bell.H(0).CX(0,1)
 render_circuit_jupyter(bell)
 ```
+<img src="Images/Bell_pytket.jpg" width="800" >
 
 Similarily, to draw the Grover's algorithm example run:
 ```shell
@@ -50,4 +51,4 @@ grover = Circuit(2)
 grover.H(0).H(1).CZ(0,1).H(0).H(1).Z(0).Z(1).CZ(0,1).H(0).H(1)
 render_circuit_jupyter(grover)
 ```
-<img src="Images/Grover_pytket.jpg" width="400" >
+<img src="Images/Grover_pytket.jpg" width="800" >
