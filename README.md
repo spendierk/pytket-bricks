@@ -52,3 +52,27 @@ grover.H(0).H(1).CZ(0,1).H(0).H(1).Z(0).Z(1).CZ(0,1).H(0).H(1)
 render_circuit_jupyter(grover)
 ```
 <img src="Images/Grover_pytket.jpg" width="600" >
+
+## Run the sample circuits on a state vector simulator
+
+
+```shell
+pip install pytket-qiskit
+```
+
+```shell
+from pytket.extensions.qiskit import AerStateBackend
+import numpy as np
+
+backend = AerStateBackend() #initialize backend with default settings
+result = backend.run_circuit(bell) #interface for running circuit on a given backend to obtain results
+result_state = result.get_state() #for results we get the full state vector of the output
+print(f"State vector -> {np.round(result_state, 3)}")   # prints (0,0), (1,0), (0,1), (1,1) states
+```
+
+Which should give you as output:
+```
+State vector -> [0.707+0.j 0.   +0.j 0.   +0.j 0.707+0.j]
+```
+
+
