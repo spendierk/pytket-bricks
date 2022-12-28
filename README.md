@@ -30,16 +30,24 @@ Pytket is available for Python 3.8, 3.9 and 3.10, on Linux, MacOS and Windows. T
 pip install pytket
 ```
 
-Then import the pyTKET circuit class and circuit rensering tool
+Then import the pyTKET circuit class and circuit rendering tool:
 
 ```shell
 from pytket import Circuit, OpType
 from pytket.circuit.display import render_circuit_jupyter
 ```
 
-Then for the Bell state circuit run
+Then for the Bell state circuit run:
 ```shell
 bell = Circuit(2)
 bell.H(0).CX(0,1)
 render_circuit_jupyter(bell)
 ```
+
+Similarily, to draw the Grover's algorithm example run:
+```shell
+grover = Circuit(2)
+grover.H(0).H(1).CZ(0,1).H(0).H(1).Z(0).Z(1).CZ(0,1).H(0).H(1)
+render_circuit_jupyter(grover)
+```
+
