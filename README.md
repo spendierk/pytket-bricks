@@ -20,5 +20,5 @@ The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after p
 Grover’s algorithm is a quantum search algorithm for an unstructured database, which was devised by Lov Grover in 1996. Here we use pyTKET bricks to assemble the 2-qubit Grover’s algorithm foe the case |w>=|11>.
 
 ![My Image](Images/Grover.jpg)
-<img src="Images/Grover.jpg" width="100" height="100">
+<img src="Images/Grover.jpg" width="100" >
 
