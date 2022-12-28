@@ -27,12 +27,19 @@ PyTKET is a python module for interfacing with TKET, a quantum computing toolkit
 Pytket is available for Python 3.8, 3.9 and 3.10, on Linux, MacOS and Windows. To install, run:
 
 ```shell
-pip install pytket ''
+pip install pytket
 ```
 
-<code>
-pip install pytket
-<code>
+Then import the pyTKET circuit class and circuit rensering tool
 
+```shell
 from pytket import Circuit, OpType
 from pytket.circuit.display import render_circuit_jupyter
+```
+
+Then for the Bell state circuit run
+```shell
+bell = Circuit(2)
+bell.H(0).CX(0,1)
+render_circuit_jupyter(bell)
+```
