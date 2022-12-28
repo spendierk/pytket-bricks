@@ -20,3 +20,11 @@ Grover’s algorithm is a quantum search algorithm for an unstructured database,
 
 <img src="Images/Grover.jpg" width="400" >
 
+## Drawing a pyTKET circuit in a Jupyter Notebook
+
+<code>
+pip install pytket
+<code>
+
+from pytket import Circuit, OpType
+from pytket.circuit.display import render_circuit_jupyter
