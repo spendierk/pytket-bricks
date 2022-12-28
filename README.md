@@ -10,12 +10,14 @@ We hope you enjoy pyTKET bricks by yourself, with friends, or with your family!
 ### 1) Bell state example
 
 The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. It entangles two qubits. 
-[What is this](https://github.com/spendierk/pytket-bricks/blob/dff01452164b8215ecb92d01421eb766695bf385/pyTKET%20Bell.jpg)
+
 ![My Image](Images/Bell.jpg)
 
 
 ### 2) Grover's algorithm example
 
 Grover’s algorithm is a quantum search algorithm for an unstructured database, which was devised by Lov Grover in 1996. Here we use pyTKET bricks to assemble the 2-qubit Grover’s algorithm foe the case |w>=|11>.
+
+![My Image](Images/Grover.jpg)
 
 
