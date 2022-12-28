@@ -76,9 +76,6 @@ print(f"State vector -> {np.round(result_state, 3)}")   # prints (0,0), (1,0), (
 Which should give you as output:
 `State vector -> [0.707+0.j 0.   +0.j 0.   +0.j 0.707+0.j]`
 
-Which is the expected state vector result
-\\[ \left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right) \\]
-
 ```math
 \left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right)
 ```
