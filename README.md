@@ -74,8 +74,6 @@ print(f"State vector -> {np.round(result_state, 3)}")   # prints (0,0), (1,0), (
 ```
 
 Which should give you as output:
-```
-State vector -> [0.707+0.j 0.   +0.j 0.   +0.j 0.707+0.j]
-```
+`State vector -> [0.707+0.j 0.   +0.j 0.   +0.j 0.707+0.j]`
 
 
