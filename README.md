@@ -55,10 +55,13 @@ render_circuit_jupyter(grover)
 
 ## Run the sample circuits on a state vector simulator
 
+This example shows how to use pyTKET to execute the Bell state example on the `AerStateBackend` simulator. First install the pytket-qiskit backend extension
 
 ```shell
 pip install pytket-qiskit
 ```
+
+and then run:
 
 ```shell
 from pytket.extensions.qiskit import AerStateBackend
