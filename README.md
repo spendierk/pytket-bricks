@@ -80,5 +80,5 @@ Which is the expected state vector result
 \\[ \left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right) \\]
 
 ```math
-SE = \frac{\sigma}{\sqrt{n}}
+\left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right)
 ```
