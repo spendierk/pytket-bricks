@@ -2,6 +2,8 @@
 
 The pyTKET bricks are a hands-on and fun way to familiarize yourself with well-known quantum circuits. Assemble the bricks to represent a Bell State or Grover's algorithm example. The brick color code and design is based on the [pyTKET](https://cqcl.github.io/pytket/manual/index.html) circuit rendering tool. PyTKET is the python wrapper of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's open-source quantum SDK. 
 
+Your pyTKET bricks set includes [H-gates, Z-gates, CX-gates, and CZ-gates,](https://en.wikipedia.org/wiki/Quantum_logic_gate) as well as qubit zero (q[0]) and qubit one (q[1]) and wire pieces represented as straight lines.
+
 We hope you enjoy pyTKET bricks by yourself, with friends, or with your family!
 
 
