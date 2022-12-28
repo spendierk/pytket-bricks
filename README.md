@@ -11,7 +11,7 @@ We hope you enjoy pyTKET bricks by yourself, with friends, or with your family!
 
 The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. It entangles two qubits. 
 
-![My Image](Images/Bell.jpg | width=100)
+![My Image](Images/Bell.jpg){:height="36px" width="36px"}
 
 
 ### 2) Grover's algorithm example
