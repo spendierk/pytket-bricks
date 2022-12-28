@@ -11,6 +11,6 @@ We hope you enjoy pyTKET bricks by yourself, with friends, or with your family!
 
 The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. It entangles two qubits. 
 
-## 2) Grover's algorithm example
+### 2) Grover's algorithm example
 
 Grover’s algorithm is a quantum search algorithm for an unstructured database, which was devised by Lov Grover in 1996. Here we use pyTKET bricks to assemble the 2-qubit Grover’s algorithm foe the case |w>=|11>.
