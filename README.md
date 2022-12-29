@@ -4,25 +4,25 @@ The pyTKET bricks are a hands-on and fun way to familiarize yourself with well-k
 
 https://user-images.githubusercontent.com/106914305/209889480-10e965fd-5854-4b76-a36e-4a681a53319e.mp4
 
-The brick color code and design is based on the [pyTKET](https://cqcl.github.io/pytket/manual/index.html) circuit rendering tool. PyTKET is the python wrapper of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's open-source quantum SDK. 
+The brick color code and design are based on the [pyTKET](https://cqcl.github.io/pytket/manual/index.html) circuit rendering tool. PyTKET is the python wrapper of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's open-source quantum SDK. 
 
 Your pyTKET bricks set includes [H-gates, Z-gates, CX-gates, and CZ-gates,](https://en.wikipedia.org/wiki/Quantum_logic_gate) as well as qubit zero (q[0]) and qubit one (q[1]) and wire pieces represented as straight lines.
 
-We hope you enjoy pyTKET bricks by yourself, with friends, or with your family!
+We hope you enjoy pyTKET bricks alone, with friends, or with your family!
 
 
 ## Sample circuits you can assemble with pyTKET bricks
 
 ### 1) Bell state example
 
-The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [It entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state) 
+The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state) 
 
 <img src="Images/Bell.jpg" width="400" >
 
 
 ### 2) Grover's algorithm example
 
-Grover’s algorithm is a quantum search algorithm for an unstructured database, which was devised by Lov Grover in 1996. Here we use pyTKET bricks to assemble the 2-qubit [Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) for the case |w>=|11>.
+Grover’s algorithm is a quantum search algorithm for an unstructured database, which Lov Grover devised in 1996. Here we use pyTKET bricks to assemble the 2-qubit [Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) for the case |w>=|11>.
 
 <img src="Images/Grover.jpg" width="400" >
 
@@ -59,9 +59,9 @@ render_circuit_jupyter(grover)
 ```
 <img src="Images/Grover_pytket.jpg" width="600" >
 
-## Run the sample circuits on a state vector simulator
+## Run a sample circuit on a state vector simulator
 
-This example shows how to use pyTKET to execute the Bell state example on the `AerStateBackend` simulator. First install the pytket-qiskit backend extension
+Next, we show how to use pyTKET to execute the Bell state example on the `AerStateBackend` simulator. First, install the pytket-qiskit backend extension
 
 ```shell
 pip install pytket-qiskit
