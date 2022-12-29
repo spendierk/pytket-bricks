@@ -75,7 +75,7 @@ result_state = result.get_state() #for results we get the full state vector of t
 print(f"State vector -> {np.round(result_state, 3)}")   # prints (0,0), (1,0), (0,1), (1,1) states
 ```
 
-resultin in:
+The printed output is
 `State vector -> [0.707+0.j 0.   +0.j 0.   +0.j 0.707+0.j]`
 which corrsponds to the expected state function
 ```math
