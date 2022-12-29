@@ -26,7 +26,7 @@ Grover’s algorithm is a quantum search algorithm for an unstructured database,
 
 <img src="Images/Grover.jpg" width="400" >
 
-## Drawing a pyTKET circuit using python
+## Drawing a pyTKET circuit using Python
 
 [PyTKET](https://cqcl.github.io/pytket/manual/index.html) is a python module for interfacing with [TKET](https://www.quantinuum.com/developers/tket), a quantum computing toolkit and optimising compiler developed by Quantinuum.
 
