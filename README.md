@@ -75,9 +75,9 @@ result_state = result.get_state() #for results we get the full state vector of t
 print(f"State vector -> {np.round(result_state, 3)}")   # prints (0,0), (1,0), (0,1), (1,1) states
 ```
 
-Which should give you as output:
+resultin in:
 `State vector -> [0.707+0.j 0.   +0.j 0.   +0.j 0.707+0.j]`
-
+which corrsponds to the expected state function
 ```math
-\left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right)
+\left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right).
 ```
