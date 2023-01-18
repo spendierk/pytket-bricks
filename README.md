@@ -30,7 +30,7 @@ Grover’s algorithm is a quantum search algorithm for an unstructured database,
 
 [PyTKET](https://cqcl.github.io/pytket/manual/index.html) is a python module for interfacing with [TKET](https://www.quantinuum.com/developers/tket), a quantum computing toolkit and optimising compiler developed by Quantinuum.
 
-Pytket is available for Python 3.9, 3.10 and 3.11, on Linux, MacOS and Windows. To install, run:
+PyTKET is available for Python 3.9, 3.10 and 3.11, on Linux, MacOS and Windows. To install, run:
 
 ```shell
 pip install pytket
