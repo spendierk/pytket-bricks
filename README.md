@@ -1,19 +1,21 @@
 #  PyTKET Bricks
 
-PyTKET is the python wrapper of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's open-source advanced software development kit for the creation and execution of programs for gate-based quantum computers. The [pyTKET](https://cqcl.github.io/pytket/manual/index.html) bricks are a hands-on and fun way to assemble well-known quantum circuits. YOu can assemble the bricks to represent a Bell State or Grover's algorithm example. 
+PyTKET is the python wrapper of [TKET](https://www.quantinuum.com/developers/tket), Quantinuum's open-source advanced software development kit for the creation and execution of programs for gate-based quantum computers. 
+
+The PyTKET bricks were designed as an educational resource to provide a hands-on and fun way to assemble well-known quantum circuits. For example, the bricks can be assembled to represent a Bell State or Grover's algorithm example. 
 
 https://user-images.githubusercontent.com/106914305/209889480-10e965fd-5854-4b76-a36e-4a681a53319e.mp4
 
-The bricks design is based on the PyTKET circuit rendering tool, which offers both traditional quantum circuit design and ZX calculus design. The bricks set include the traditional [H-gates, Z-gates, CX-gates, and CZ-gates,](https://en.wikipedia.org/wiki/Quantum_logic_gate) as well as qubit zero (q[0]) and qubit one (q[1]) and wire pieces represented as straight lines.
+The brick design is based on the PyTKET circuit rendering tool, which offers both traditional quantum circuit design and ZX calculus design. The bricks set includes the traditional [H-gates, Z-gates, CX-gates, and CZ-gates,](https://en.wikipedia.org/wiki/Quantum_logic_gate) as well as qubit zero (q[0]) and qubit one (q[1]) and wire pieces represented as straight lines.
 
 PyTKET bricks can be enjoyed alone, with friends, or with family.
 
 
-## Sample circuits you can assemble with pyTKET bricks
+## Sample circuits you can assemble with PyTKET bricks
 
 ### 1) Bell state example
 
-The pyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state) 
+The PyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state) 
 
 <img src="Images/Bell.jpg" width="400" >
 
@@ -59,7 +61,7 @@ render_circuit_jupyter(grover)
 
 ## Run a sample circuit on a state vector simulator
 
-Next, we show how to use pyTKET to execute the Bell state example on the `AerStateBackend` simulator. First, install the pytket-qiskit backend extension
+Next, we show how to use PyTKET to execute the Bell state example on the `AerStateBackend` simulator. First, install the pytket-qiskit backend extension
 
 ```shell
 pip install pytket-qiskit
