@@ -51,7 +51,7 @@ render_circuit_jupyter(bell)
 ```
 https://user-images.githubusercontent.com/106914305/214130088-7411305f-9a9e-47c3-bb2d-a1f1cc2cd3d9.mp4
 
-The rendered circuit diagram has user interface icons to the left of the display as shown in the video above. This icon can be used to toggle between the ZX calculus circuit diagram and a traditional quantum circuit diagram.
+The rendered circuit diagram has user interface icons to the left of the display, as shown in the video above. This most leftward icon can be used to toggle between the ZX calculus circuit diagram and a traditional quantum circuit diagram.
 
 Similarily, to draw the Grover's algorithm example run:
 ```shell
