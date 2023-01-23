@@ -86,12 +86,7 @@ which corrsponds to the expected state function
 \left| \psi \right\rangle = \frac{1}{\sqrt{2}} \left( \left| 00 \right\rangle + \left| 11 \right\rangle\right).
 ```
 
-## Parts
-
-<img src="Images/Bell_pytket.jpg" width="700" >
-
-
 ## Note
-The parts list and the animation have been created with the stud.io lego digital design software. This GitHub project is not affiliated in any way with Lego. 
+The animations have been created with the stud.io Lego digital design software. This GitHub project is not affiliated in any way with Lego. LEGO are trademarks of the LEGO Group.
 
 Another quantum computing Lego project is Quantego. It is a Lego model of the IBM Quantum System One quantum computer found at https://janlahmann.github.io/Quantego/.
