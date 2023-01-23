@@ -15,16 +15,16 @@ PyTKET bricks can be enjoyed alone, with friends, or with family.
 
 ### 1) Bell state example
 
-The PyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state) 
+The PyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state). The image below depicts a Bell pair circuit using traditional pyTKET brick gates (left) and ZX calculus brick gates (right).
 
 <img src="Images/Bell2.jpg" width="600" >
 
 
 ### 2) Grover's algorithm example
 
-Grover’s algorithm is a quantum search algorithm for an unstructured database, which Lov Grover devised in 1996. Here we use pyTKET bricks to assemble the 2-qubit [Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) for the case |w>=|11>.
+Grover’s algorithm is a quantum search algorithm for an unstructured database, which Lov Grover devised in 1996. Here we use pyTKET bricks to assemble the 2-qubit [Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) for the case |w>=|11>. The image below depicts this Grover’s algorithm example circuit using traditional pyTKET brick gates (left) and ZX calculus brick gates (right).
 
-<img src="Images/Grover2.jpg" width="400" >
+<img src="Images/Grover2.jpg" width="600" >
 
 ## Drawing a pyTKET circuit using Python
 
@@ -50,6 +50,8 @@ bell.H(0).CX(0,1)
 render_circuit_jupyter(bell)
 ```
 https://user-images.githubusercontent.com/106914305/214130088-7411305f-9a9e-47c3-bb2d-a1f1cc2cd3d9.mp4
+
+The rendered circuit diagram has user interface icons to the left of the display as shown in the video above. This icon can be used to toggle between the ZX calculus circuit diagram and a traditional quantum circuit diagram.
 
 Similarily, to draw the Grover's algorithm example run:
 ```shell
