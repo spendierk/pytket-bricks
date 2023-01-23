@@ -6,7 +6,7 @@ The PyTKET bricks were designed as an educational resource to provide a hands-on
 
 https://user-images.githubusercontent.com/106914305/209889480-10e965fd-5854-4b76-a36e-4a681a53319e.mp4
 
-The brick design is based on the PyTKET circuit rendering tool, which offers both traditional quantum circuit design and ZX calculus design. The bricks can be designed after the traditional [H-gates, Z-gates, CX-gates, and CZ-gates,](https://en.wikipedia.org/wiki/Quantum_logic_gate) or the [ZX calculaus version with unitary maps and spiders](https://en.wikipedia.org/wiki/ZX-calculus) together with qubit zero (q[0]) and qubit one (q[1]) and wire pieces represented as straight lines.
+The brick design is based on the PyTKET circuit rendering tool, which offers both traditional quantum circuit design and ZX calculus design. The bricks can be designed after the traditional [H-gates, Z-gates, CX-gates, and CZ-gates,](https://en.wikipedia.org/wiki/Quantum_logic_gate) or the [ZX calculus version with unitary maps and spiders](https://en.wikipedia.org/wiki/ZX-calculus) together with qubit zero (q[0]) and qubit one (q[1]) and wire pieces represented as straight lines.
 
 PyTKET bricks can be enjoyed alone, with friends, or with family.
 
