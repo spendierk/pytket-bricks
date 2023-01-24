@@ -91,6 +91,6 @@ which corrsponds to the expected state function
 
 ## Note
 
-The "pyTKET_bricks_assembly" animation has been created with the stud.io Lego digital design software. This GitHub project is not affiliated in any way with Lego. LEGO are trademarks of the LEGO Group.
+The "pyTKET_bricks_assembly" animation was created with the stud.io Lego digital design software. This GitHub project is not affiliated in any way with Lego. LEGO are trademarks of the LEGO Group.
 
 Another quantum computing Lego project is Quantego. It is a Lego model of the IBM Quantum System One quantum computer found at https://janlahmann.github.io/Quantego/.
