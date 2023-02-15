@@ -15,7 +15,7 @@ PyTKET bricks can be enjoyed alone, with friends, or with family.
 
 ### 1) Bell state example
 
-The PyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state). The image below depicts a Bell pair circuit using traditional pyTKET brick gates (left) and ZX calculus brick gates (right).
+The PyTKET bricks can be arrange to represent a Bell state or Bell pair, after physicist John Stewart Bell. [This circuit entangles two qubits.](https://en.wikipedia.org/wiki/Bell_state). The image below depicts a Bell pair circuit using traditional PyTKET brick gates (left) and ZX calculus brick gates (right).
 
 <img src="Images/Bell2.jpg" width="600" >
 
