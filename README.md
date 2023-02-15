@@ -22,7 +22,7 @@ The PyTKET bricks can be arrange to represent a Bell state or Bell pair, after p
 
 ### 2) Grover's algorithm example
 
-Grover’s algorithm is a quantum search algorithm for an unstructured database, which Lov Grover devised in 1996. Here we use pyTKET bricks to assemble the 2-qubit [Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) for the case |w>=|11>. The image below depicts this Grover’s algorithm example circuit using traditional pyTKET brick gates (left) and ZX calculus brick gates (right).
+Grover’s algorithm is a quantum search algorithm for an unstructured database, which Lov Grover devised in 1996. Here we use PyTKET bricks to assemble the 2-qubit [Grover’s algorithm](https://en.wikipedia.org/wiki/Grover%27s_algorithm) for the case |w>=|11>. The image below depicts this Grover’s algorithm example circuit using traditional PyTKET brick gates (left) and ZX calculus brick gates (right).
 
 <img src="Images/Grover2.jpg" width="600" >
 
