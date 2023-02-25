@@ -10,8 +10,7 @@ The brick design is based on the PyTKET circuit rendering tool, which offers bot
 
 PyTKET bricks can be enjoyed alone, with friends, or with family.
 
-# [Click Here For Instructions to Makr Your Own Set!](https://github.com/spendierk/pytket-bricks/tree/main/make%20your%20own%20PyTKET%20bricks%20set)
-<span style="color: red"> [Click Here For Instructions to Makr Your Own Set!](https://github.com/spendierk/pytket-bricks/tree/main/make%20your%20own%20PyTKET%20bricks%20set) </span>
+# [Click Here For Instructions to Make Your Own PyTKET Bricks Set!](https://github.com/spendierk/pytket-bricks/tree/main/make%20your%20own%20PyTKET%20bricks%20set)
 
 ## Sample circuits you can assemble with PyTKET bricks
 
