@@ -12,12 +12,17 @@ You will need
 - stickers (The size of each sticker should be 0.62 by 0.62 inches.)
 ![image](https://user-images.githubusercontent.com/106914305/221366819-55f96e5e-cfce-415f-b686-a54a1a07e617.png)
 
+## Assembly
+ 1) Take the Main Sticker Sheet and cut along the marked yellow lines with scissors to obtain 23 stickers. The Extra Sticker Sheet contains replacement stickers when needed.
+ 2) Place one tile on top of one brick.
+ 3) Stick one sticker on top of each tile.
+ 4) You are ready to use the PyTKET bricks to assemble your quantum circuit on the Baseplate.
 
-![image](https://user-images.githubusercontent.com/106914305/221366756-d96349d8-3d14-4a97-ad07-f9f9789afc0e.png)
+## This kit contains the following PyTKET bricks with corresponding functions
+![image](https://user-images.githubusercontent.com/106914305/221367002-5fa35466-05d2-4949-b54c-1a3ce2bae9f2.png)
 
 
+## Example Bell State Assembly with ZX-calculus bricks
+The PyTKET bricks in this kit can be arranged to represent all four Bell states, which are examples of qubit entanglement. Here we show an example of assembling the first Bell state using the ZX-alculus bricks with the corresponding wave function:
 
-The table below contains a list of current stickers that I hope to expand over time.
-
-![image](https://user-images.githubusercontent.com/106914305/221366395-fc48d59b-4862-42f2-83df-892b407df399.png)
-
+![image](https://user-images.githubusercontent.com/106914305/221367065-32e1fe41-adbf-46e0-9aa9-02015095bf5d.png)
