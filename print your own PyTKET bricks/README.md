@@ -6,9 +6,9 @@ The PyTKET bricks in the following kit can be arranged to represent all four Bel
 
 ## Parts
 You will need
-- 23 white 2x2 bricks
-- 23 white 2x2 tiles
-- one Baseplate (about 6x6")
+- 23 white 2x2 bricks, i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-brick-2-x-2-3003-6223).
+- 23 white 2x2 tiles, i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-tile-2-x-2-with-groove-3068).
+- one Baseplate (about 32x16), i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-baseplate-16-x-32-2748).
 - stickers (The size of each sticker should be 0.62 by 0.62 inches.)
 ![image](https://user-images.githubusercontent.com/106914305/221366819-55f96e5e-cfce-415f-b686-a54a1a07e617.png)
 
