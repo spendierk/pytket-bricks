@@ -9,11 +9,11 @@ You will need
 - 23 white 2x2 bricks, i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-brick-2-x-2-3003-6223).
 - 23 white 2x2 tiles, i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-tile-2-x-2-with-groove-3068).
 - one Baseplate (about 32x16), i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-baseplate-16-x-32-2748).
-- stickers (The size of each sticker should be 0.62 by 0.62 inches.) You can print the stickes on a transparent vinyl sticker sheet using a regular printer.
+- print the Main Sticker Sheet below (The size of each sticker should be 0.62 by 0.62 inches.) You can print the stickes on a transparent vinyl sticker sheet using a regular printer.
 ![image](https://user-images.githubusercontent.com/106914305/221366819-55f96e5e-cfce-415f-b686-a54a1a07e617.png)
 
 ## Assembly
- 1) Take the Main Sticker Sheet and cut along the marked yellow lines with scissors to obtain 23 stickers. The Extra Sticker Sheet contains replacement stickers when needed.
+ 1) Take the Main Sticker Sheet and cut along the marked yellow lines with scissors to obtain 23 stickers. 
  2) Place one tile on top of one brick.
  3) Stick one sticker on top of each tile.
  4) You are ready to use the PyTKET bricks to assemble your quantum circuit on the Baseplate.
