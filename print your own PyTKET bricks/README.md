@@ -22,7 +22,7 @@ You will need
 ![image](https://user-images.githubusercontent.com/106914305/221367002-5fa35466-05d2-4949-b54c-1a3ce2bae9f2.png)
 
 
-## Example Bell State Assembly with ZX-calculus bricks
+## Example of First Bell State Assembly with ZX-calculus bricks
 The PyTKET bricks in this kit can be arranged to represent all four Bell states, which are examples of qubit entanglement. Here we show an example of assembling the first Bell state using the ZX-alculus bricks with the corresponding wave function:
 
 ![image](https://user-images.githubusercontent.com/106914305/221367065-32e1fe41-adbf-46e0-9aa9-02015095bf5d.png)
