@@ -1,4 +1,4 @@
-# Make your own PyTKET Bricks set
+# Make your own PyTKET bricks set
 
 Currently, you cannot buy these sets assembled, but you can purchase the bricks and tiles and print the needed stickers. 
 
