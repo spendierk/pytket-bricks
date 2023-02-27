@@ -1,6 +1,6 @@
-# Making your own PyTKET Bricks set
+# Make your own PyTKET Bricks set
 
-Currently, you cannot buy these sets assembled but you can buy the bricks and tiles as well as print the needed stickers. 
+Currently, you cannot buy these sets assembled, but you can purchase the bricks and tiles and print the needed stickers. 
 
 The PyTKET bricks in the following kit can be arranged to represent all four Bell states in traditional and ZX-calculus representation. The Bell states are examples of qubit entanglement.
 
@@ -9,7 +9,7 @@ You will need
 - 23 white 2x2 bricks, i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-brick-2-x-2-3003-6223).
 - 23 white 2x2 tiles, i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-tile-2-x-2-with-groove-3068).
 - one Baseplate (about 32x16), i.e. from Brick Owl [here](https://www.brickowl.com/catalog/lego-baseplate-16-x-32-2748).
-- print the Main Sticker Sheet below (The size of each sticker should be 0.62 by 0.62 inches.) You can print the stickes on a transparent/clear vinyl sticker sheet paper using a regular printer.
+- print the Main Sticker Sheet below (Each sticker should be 0.62 by 0.62 inches.) You can print the stickers on transparent/clear vinyl sticker sheet paper using a regular printer.
 ![image](https://user-images.githubusercontent.com/106914305/221366819-55f96e5e-cfce-415f-b686-a54a1a07e617.png)
 
 ## Assembly
@@ -23,6 +23,6 @@ You will need
 
 
 ## Example of First Bell State Assembly with ZX-calculus bricks
-The PyTKET bricks in this kit can be arranged to represent all four Bell states, which are examples of qubit entanglement. Here we show an example of assembling the first Bell state using the ZX-alculus bricks with the corresponding wave function:
+The PyTKET bricks in this kit can be arranged to represent all four Bell states, which are examples of qubit entanglement. Here we show an example of assembling the first Bell state using the ZX-calculus bricks with the corresponding wave function:
 
 ![image](https://user-images.githubusercontent.com/106914305/221367065-32e1fe41-adbf-46e0-9aa9-02015095bf5d.png)
